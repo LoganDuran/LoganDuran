@@ -1,11 +1,9 @@
 ### Hello World 
 
-Welcome to my GitHub profile, all of the displayed repos are my personal projects.
+## Welcome to my GitHub profile, all displayed repos are my personal fun projects.
 
 
-- 🔭 I'm currently doing mostly WordPress work, although I'm expanding in all sorts of directions
-  
-- 🌱 I’m currently focusing my attention towards PHP in general.
+- 🔭 I'm currently doing mostly WordPress work, but also branching out into different areas, in particular working on improving my PHP skills.
 
 - ⚡ Fun fact: the first bit of "programming" I did was back in the MySpace days, I started by customizing the profile to my liking, changing the background image the color of the font, and the overall color scheme of the website.
 

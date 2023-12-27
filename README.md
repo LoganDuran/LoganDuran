@@ -1,6 +1,6 @@
 ### Hello World 
 
-## Welcome to my GitHub profile, all displayed repos are my personal fun projects.
+# Welcome to my GitHub profile, all displayed repos are my personal fun projects.
 
 
 - 🔭 I'm currently doing mostly WordPress work, but also branching out into different areas, in particular working on improving my PHP skills.

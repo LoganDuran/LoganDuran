@@ -2,7 +2,14 @@
 ### Hello World! Welcome to my GitHub profile, all displayed repos are my personal <sup>fun</sup> projects.
 
 
-- 🔭 I'm currently doing mostly WordPress work, but also branching out into different areas, in particular working on improving my PHP skills.
+- 🔭 Right now, I'm mostly doing WordPress work, but I'm also branching out into other areas. Specifically, I'm working on improving my PHP skills.
+
+
+
+
+
+
+
 
 
 

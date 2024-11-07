@@ -18,7 +18,7 @@ all of the  displayed repos are my personal <sup>superrr fun</sup> projects.
         <tr>
           <td width='50%' valign='top'>
             <h4>WebGrid.Dev Projects Gallery Slider</h4>
-            <img src="https://raw.githubusercontent.com/LoganDuran/wgd-projects-gallery-block/refs/heads/main/assets/Screenshot-1.jpg" alt="Gif of Southern Paiute Dictionary" style="max-width: 100%;" width="100%"">
+            <img src="https://raw.githubusercontent.com/LoganDuran/wgd-projects-gallery-block/refs/heads/main/assets/Screenshot-1.jpg" alt="Img of WebGrid.Dev Projects Gallery Slidery" style="max-width: 100%;" width="100%"">
             <br>
             <p>
               <strong style="max-width: 50%;" width="50%">Custom Image Gallery Block with Sliding Zoom-In Effect</strong> 
@@ -30,7 +30,7 @@ all of the  displayed repos are my personal <sup>superrr fun</sup> projects.
           </td>
            <td width='50%' valign='top'>
            <h4>PHPprojectCrud - a CRUD app using PHP</h4>
-           <img src="https://raw.githubusercontent.com/LoganDuran/PHPprojectCrud/refs/heads/main/image.png" alt="Gif of Salt City Grooming" style="max-width: 100%;" width="100%"">
+           <img src="https://raw.githubusercontent.com/LoganDuran/PHPprojectCrud/refs/heads/main/image.png" alt="Img of PHPprojectCrud - a CRUD app using PHP" style="max-width: 100%;" width="100%"">
             <br>
             <p>
               <strong style="max-width: 50%;" width="50%">My second CRUD app</strong>
